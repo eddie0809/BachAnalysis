@@ -1,0 +1,90 @@
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 1: 0.012841554434592017
+kullback-leibler-divergence of left and right hand, inventio 1: 0.05523112483177303
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 2: 0.004216147637863316
+kullback-leibler-divergence of left and right hand, inventio 2: inf
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 3: 0.026943271581535744
+kullback-leibler-divergence of left and right hand, inventio 3: 0.10569416264180566
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 4: 0.011383586539353391
+kullback-leibler-divergence of left and right hand, inventio 4: 0.046855540300644885
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 5: 0.007501396381367264
+kullback-leibler-divergence of left and right hand, inventio 5: 0.030318639949976252
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 6: 0.002889377325629154
+kullback-leibler-divergence of left and right hand, inventio 6: inf
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 7: 0.009988490335420283
+kullback-leibler-divergence of left and right hand, inventio 7: 0.03769043269057379
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 8: 0.013262400691263374
+kullback-leibler-divergence of left and right hand, inventio 8: 0.047994809723648245
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 9: 0.004599262870201599
+kullback-leibler-divergence of left and right hand, inventio 9: 0.018635003275199367
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 10: 0.012908093112358854
+kullback-leibler-divergence of left and right hand, inventio 10: inf
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 11: 0.006806643121356175
+kullback-leibler-divergence of left and right hand, inventio 11: 0.025775024133451556
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 12: 0.015727831850561504
+kullback-leibler-divergence of left and right hand, inventio 12: 0.089224029538187
+#################################
+#
+#
+#################################
+j,e,nsen-shannon-divergence of left and right hand, inventio 13: 0.005516454076403446
+kullback-leibler-divergence of left and right hand, inventio 13: 0.021229529572407372
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 14: 0.014811698340547654
+kullback-leibler-divergence of left and right hand, inventio 14: 0.05982410459972105
+#################################
+#
+#
+#################################
+jensen-shannon-divergence of left and right hand, inventio 15: 0.011680186457074006
+kullback-leibler-divergence of left and right hand, inventio 15: inf
+#################################
+#
