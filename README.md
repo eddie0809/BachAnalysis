@@ -47,7 +47,7 @@ I need to implement the following:
 - avoid parallel voices on consonant intervals
 
 ## FAQ
-i have yet to get a question about this, that i didn't previously also asked myself.
+i have yet to get a question about this, that i didn't previously also ask myself.
 with that being said, i only really got 3 questions about this so far.
 I'm just anticipating new questions, which will *most definitively* get asked (Clueless)
 
