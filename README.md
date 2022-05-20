@@ -7,7 +7,7 @@ contrapunctal music, or at least contrapunctal music in the baroque era, was hea
 motifs and development of them. fugues are a well-known example of this, where there are multiple voices going through left and right hand, with one
 central motif that is first being played by one voice and then it gets variated through in all the different voices.
 A fugue usually begins by establishing this motif in what is known as the *exposition*.
-The voice first establishing the motif gets the name *Dux* (from latix 'Dux' meaning 'Leader')
+The voice first establishing the motif gets the name *Dux* (from latin 'Dux' meaning 'Leader')
 and the voices following get the name *Comes* (from Latin 'Comes' meaning 'Companion').
 
 Of course the voices don't stop playing after they finished with the variation of the central motif. usually a different, minor
